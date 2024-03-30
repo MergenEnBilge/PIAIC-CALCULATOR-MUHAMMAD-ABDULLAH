@@ -1,3 +1,5 @@
+#! usr/bin/env node
+
 class Parser {
     static operators: {[key: string]: (a: number, b: number) => number} = {
         '+': (a, b) => a + b,
