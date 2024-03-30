@@ -1,5 +1,5 @@
 {
-  "name": "week-2",
+  "name": "piaic-muhammad-abdullah-calculator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhammad Abdullah",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
